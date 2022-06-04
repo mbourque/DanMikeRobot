@@ -5,4 +5,4 @@ Ever since my pal Daniel sent me a surgical robot part, I have been researching 
 
 But what if the technology could be used for other purposes? What if it was affordable and open source so anyone could 3d print, build, and extend a robotic surgical platform?
 
-Sound cool right? Welcome to DanMike Robitics!
+Sound cool right? Welcome to DanMike Robotics!
